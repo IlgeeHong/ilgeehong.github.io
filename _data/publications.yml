@@ -20,3 +20,10 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
+
+  - title: Who Wrote this Code? Watermarking for Code Generation
+    authors: Taehyun Lee, Seokhee Hong, Jaewoo Ahn, <strong>Ilgee Hong</strong>, Hwaran Lee, Sangdoo Yun, Jamin Shin, Gunhee Kim
+    #conference_short: Asilomar
+    conference: preprint
+    pdf: https://arxiv.org/pdf/2305.15060.pdf
+    #code: https://github.com/IlgeeHong/CLNR    
