@@ -19,4 +19,4 @@ Hello! I am a first-year PhD student at Georgia Institute of Technology, advised
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
