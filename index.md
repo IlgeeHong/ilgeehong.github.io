@@ -4,19 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hello! I am a first-year PhD student at Georgia Institute of Technology, advised by [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/). Before attending GT, I received my M.S. degree in Statistics from the University of Chicago in 2023, where I am lucky to be advised by [Prof. Claire Donnat](https://donnate.github.io/) and [Prof. Mladen Kolar](https://mkolar.coffeejunkies.org/). Prior to UChicago, I received my bachelor’s degree in Applied Statistics at Yonsei University. At Yonsei, I was advised by [Prof. Sangun Park](https://yonsei.pure.elsevier.com/en/persons/sangun-park).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Unsupervised Learning**
+- **Reinforcement Learning**
+- **Multimodal Learning**
+- **Nonconvex Optimization**
 
-## News
+<!-- ## News -->
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+<!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020. -->
 
 {% include_relative _includes/publications.md %}
 
