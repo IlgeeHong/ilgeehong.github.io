@@ -2,7 +2,7 @@ main:
 
   - title: Constrained Optimization via Exact Augmented Lagrangian and Randomized Iterative Sketching
     authors: <strong>Ilgee Hong*</strong>, Sen Na*, Michael W. Mahoney, Mladen Kolar 
-    conference_short: ICML
+    #conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2305.18379.pdf
     code: https://github.com/IlgeeHong/AdaSketch-Newton
@@ -12,7 +12,7 @@ main:
 
   - title: A Simplified Framework for Contrastive Learning for Node Representations
     authors: <strong>Ilgee Hong</strong>, Huy Tran, Claire Donnat
-    conference_short: Asilomar
+    #conference_short: Asilomar
     conference: Asilomar Conference on Signals, Systems, and Computers <strong>(Asilomar)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2305.00623.pdf
     code: https://github.com/IlgeeHong/CLNR
