@@ -13,7 +13,7 @@ main:
   - title: A Simplified Framework for Contrastive Learning for Node Representations
     authors: <strong>Ilgee Hong</strong>, Huy Tran, Claire Donnat
     #conference_short: Asilomar
-    conference: <strong>Asilomar 2023</strong>
+    conference: <strong>ACSSC 2023</strong>
     pdf: https://arxiv.org/pdf/2305.00623.pdf
     code: https://github.com/IlgeeHong/CLNR
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
