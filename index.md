@@ -8,9 +8,9 @@ Hello! I am a first-year Ph.D. student in Machine Learning at Georgia Institute 
 
 ## Research Interests
 
-- **Unsupervised Learning**
+- **Large Language Models**
 - **Reinforcement Learning**
-- **Multimodal Learning**
+- **Self-Supervised Learning**
 - **Nonconvex Optimization**
 
 <!-- ## News where I am advised by [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/).-->
