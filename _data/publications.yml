@@ -12,7 +12,7 @@ main:
     #conference_short: Asilomar
     conference: Under Review
     pdf: https://arxiv.org/pdf/2305.15060.pdf
-    code: https://github.com/IlgeeHong/CLNR    
+    code: https://github.com/hongcheki/sweet-watermark
 
   - title: A Simplified Framework for Contrastive Learning for Node Representations
     authors: <strong>Ilgee Hong</strong>, Huy Tran, Claire Donnat
