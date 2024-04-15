@@ -3,16 +3,16 @@ main:
   - title: Adaptive Preference Scaling for Reinforcement Learning with Human Feedback
     authors: <strong>Ilgee Hong</strong>, Zichong Li, Alexander Bukharin, Yixiao Li, Haoming Jiang, Tianbao Yang, Tuo Zhao
     #conference_short: Asilomar
-    conference: submitted
+    conference: Under Review
     # pdf: https://arxiv.org/pdf/2305.15060.pdf
-    #code: https://github.com/IlgeeHong/CLNR 
+    #code: https://github.com/hongcheki/sweet-watermark
 
   - title: Who Wrote this Code? Watermarking for Code Generation
     authors: Taehyun Lee, Seokhee Hong, Jaewoo Ahn, <strong>Ilgee Hong</strong>, Hwaran Lee, Sangdoo Yun, Jamin Shin, Gunhee Kim
     #conference_short: Asilomar
-    conference: preprint
+    conference: Under Review
     pdf: https://arxiv.org/pdf/2305.15060.pdf
-    #code: https://github.com/IlgeeHong/CLNR    
+    code: https://github.com/IlgeeHong/CLNR    
 
   - title: A Simplified Framework for Contrastive Learning for Node Representations
     authors: <strong>Ilgee Hong</strong>, Huy Tran, Claire Donnat
