@@ -10,7 +10,7 @@ main:
   - title: Who Wrote this Code? Watermarking for Code Generation
     authors: Taehyun Lee, Seokhee Hong, Jaewoo Ahn, <strong>Ilgee Hong</strong>, Hwaran Lee, Sangdoo Yun, Jamin Shin, Gunhee Kim
     #conference_short: Asilomar
-    conference: Under Review
+    conference: <strong>ACL 2024</strong>
     pdf: https://arxiv.org/pdf/2305.15060.pdf
     code: https://github.com/hongcheki/sweet-watermark
 
