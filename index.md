@@ -15,8 +15,8 @@ Hello! I am a first-year Ph.D. student in Machine Learning at Georgia Institute 
 
 ## Experience
 
-Fall 2024: Applied Scientist Intern, Amazon
-Summer 2024: Research Intern (Part Time),  Microsoft
+- Fall 2024: Applied Scientist Intern, **Amazon**
+- Summer 2024: Research Intern (Part Time),  **Microsoft**
 
 <!-- ## News where I am advised by [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/).-->
 
