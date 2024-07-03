@@ -13,6 +13,11 @@ Hello! I am a first-year Ph.D. student in Machine Learning at Georgia Institute 
 - **Self-Supervised Learning**
 - **Nonconvex Optimization**
 
+## Experience
+
+Fall 2024: Applied Scientist Intern, Amazon
+Summer 2024: Research Intern (Part Time),  Microsoft
+
 <!-- ## News where I am advised by [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/).-->
 
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020. -->
