@@ -2,14 +2,14 @@ main:
   - title: Robust Reinforcement Learning from Corrupted Human Feedback
     authors: Alexander Bukharin*, <strong>Ilgee Hong</strong>*, Haoming Jiang*, Zichong Li*, Qingru Zhang*, Zixuan Zhang*, Tuo Zhao*
     #conference_short: Asilomar
-    conference: Prepreint
+    conference: <strong>NeurIPS 2024<strong>
     pdf: https://arxiv.org/pdf/2406.15568
     #code: https://github.com/hongcheki/sweet-watermark
 
   - title: Adaptive Preference Scaling for Reinforcement Learning with Human Feedback
     authors: <strong>Ilgee Hong</strong>*, Zichong Li*, Alexander Bukharin, Yixiao Li, Haoming Jiang, Tianbao Yang, Tuo Zhao
     #conference_short: Asilomar
-    conference: Prepreint
+    conference: <strong>NeurIPS 2024<strong>
     pdf: https://arxiv.org/pdf/2406.02764
     #code: https://github.com/hongcheki/sweet-watermark
 
