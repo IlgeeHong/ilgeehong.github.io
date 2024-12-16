@@ -1,4 +1,3 @@
-<!-- <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>-->
 <div style="display: flex; align-items: baseline; justify-content: space-between;">
   <h2 id="publications" style="margin: 2px 0px;">Publications</h2>
 <small style="font-size: 80%; color: #666; margin-left: 10px;">
