@@ -8,15 +8,23 @@ Hello! I am a second-year Ph.D. student in Machine Learning at Georgia Institute
 
 ## Research Interests
 
+My research primarily focuses on aligning large language models (LLMs) with human values. Specifically, I am developing principled methodologies for:
+
+1. **Reward modeling**, both discriminative and generative.  
+2. **Post-training for LLMs** that use self-feedback or weak supervision from external models.
+
+<!-- 
 - **Large Language Models**
 - **Reinforcement Learning**
 - **Self-Supervised Learning**
 - **Nonconvex Optimization**
+-->
+
 
 ## Experience
 
 - Fall 2024: Applied Scientist Intern, **Amazon**
-- Summer 2024: Research Intern (Part Time),  **Microsoft**
+- Summer 2024: Research Intern,  **Microsoft**
 
 <!-- ## News where I am advised by [Prof. Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/).-->
 
