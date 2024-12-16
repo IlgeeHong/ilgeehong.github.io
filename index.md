@@ -11,7 +11,7 @@ Hello! I am a second-year Ph.D. student in Machine Learning at Georgia Institute
 My research primarily focuses on aligning large language models (LLMs) with human values. Specifically, I am developing principled methodologies for:
 
 1. **Reward modeling**, both discriminative and generative.  
-2. **Post-training for LLMs** that use self-feedback or weak supervision from external models.
+2. **Post-training for LLMs** that uses self-feedback or weak supervision from external models.
 
 <!-- 
 - **Large Language Models**

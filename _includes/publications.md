@@ -1,4 +1,5 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<small style="font-size: 80%; color: #666;">(* – authors alphabetically ordered; † – equal contribution)</small>
 
 <div class="publications">
 <ol class="bibliography">
