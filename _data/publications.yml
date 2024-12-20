@@ -7,7 +7,7 @@ main:
     #code: https://github.com/hongcheki/sweet-watermark
 
   - title: Adaptive Preference Scaling for Reinforcement Learning with Human Feedback
-    authors: <strong>Ilgee Hong</strong>†, Zichong Li† Alexander Bukharin, Yixiao Li, Haoming Jiang, Tianbao Yang, Tuo Zhao
+    authors: <strong>Ilgee Hong</strong>†, Zichong Li†, Alexander Bukharin, Yixiao Li, Haoming Jiang, Tianbao Yang, Tuo Zhao
     #conference_short: Asilomar
     conference: <strong>NeurIPS 2024</strong>
     pdf: https://arxiv.org/pdf/2406.02764
