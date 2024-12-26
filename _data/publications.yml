@@ -11,7 +11,7 @@ main:
     #conference_short: Asilomar
     conference: <strong>NeurIPS 2024</strong>
     pdf: https://arxiv.org/pdf/2406.02764
-    #code: https://github.com/hongcheki/sweet-watermark
+    code: https://github.com/IlgeeHong/Adaptive-Preference-Scaling
 
   - title: Who Wrote this Code? Watermarking for Code Generation
     authors: Taehyun Lee†, Seokhee Hong†, Jaewoo Ahn, <strong>Ilgee Hong</strong>, Hwaran Lee, Sangdoo Yun, Jamin Shin, Gunhee Kim
