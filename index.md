@@ -8,10 +8,10 @@ Hello! I am a second-year Ph.D. student in Machine Learning at Georgia Institute
 
 ## Research Interests
 
-My research primarily focuses on post-training methods for large language models (LLMs). Specifically, I am developing methodologies to improve instruction following, reasoning, and coding abilities by:
+My research focuses on post-training methods for large language models (LLMs). Specifically, I am developing methodologies to improve instruction following, reasoning, and coding abilities by:
 
 1. training LLMs with reinforcement learning (RL), and
-2. training LLMs without relying on expensive supervision and data.
+2. reducing reliance on costly supervision and data.
 
 <!-- 
 - **Large Language Models**
