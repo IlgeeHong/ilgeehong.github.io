@@ -1,4 +1,9 @@
 main:
+  - title: Discriminative Finetuning of Generative Large Language Models without Reward Models and Preference Data
+    authors: Siqi Guo, <strong>Ilgee Hong</strong>*, Vicente Balmaseda, Changlong Yu, Liang Qiu, Xin Liu, Haoming Jiang, Tuo Zhao, Tianbao Yang
+    conference: Preprint
+    pdf: https://arxiv.org/abs/2502.18679
+    code: https://github.com/PenGuln/DFT
   - title: Robust Reinforcement Learning from Corrupted Human Feedback
     authors: Alexander Bukharin*, <strong>Ilgee Hong</strong>*, Haoming Jiang*, Zichong Li*, Qingru Zhang*, Zixuan Zhang*, Tuo Zhao*
     #conference_short: Asilomar
