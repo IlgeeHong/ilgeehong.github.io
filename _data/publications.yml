@@ -1,7 +1,7 @@
 main:
   - title: Discriminative Finetuning of Generative Large Language Models without Reward Models and Preference Data
     authors: Siqi Guo, <strong>Ilgee Hong</strong>, Vicente Balmaseda, Changlong Yu, Liang Qiu, Xin Liu, Haoming Jiang, Tuo Zhao, Tianbao Yang
-    conference: Preprint
+    conference: <strong>ICML 2025</strong>
     pdf: https://arxiv.org/abs/2502.18679
     code: https://github.com/PenGuln/DFT
   - title: Robust Reinforcement Learning from Corrupted Human Feedback
