@@ -1,4 +1,10 @@
 main:
+  - title: Think-RM: Enabling Long-Horizon Reasoning in Generative Reward Models
+    authors: <strong>Ilgee Hong</strong>, Changlong Yu, Liang Qiu, Weixiang Yan, Zhenghao Xu, Haoming Jiang, Qingru Zhang, Qin Lu, Xin Liu, Chao Zhang, Tuo Zhao
+    conference: Preprint
+    pdf: https://www.arxiv.org/abs/2505.16265
+    code: https://github.com/IlgeeHong/Think-RM
+    
   - title: Discriminative Finetuning of Generative Large Language Models without Reward Models and Preference Data
     authors: Siqi Guo, <strong>Ilgee Hong</strong>, Vicente Balmaseda, Changlong Yu, Liang Qiu, Xin Liu, Haoming Jiang, Tuo Zhao, Tianbao Yang
     conference: <strong>ICML 2025</strong>
