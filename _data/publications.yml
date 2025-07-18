@@ -9,13 +9,13 @@ main:
     authors: Zichong Li, Chen Liang, Zixuan Zhang, <strong>Ilgee Hong</strong>, Young Jin Kim, Weizhu Chen and Tuo Zhao
     conference: <strong>COLM 2025</strong>
     pdf: https://arxiv.org/pdf/2506.18349
-    code:
+    code: " "
 
   - title: "Self-Rewarding PPO: Aligning Large Language Models with Demonstrations Only"
     authors: Qingru Zhang, Liang Qiu, <strong>Ilgee Hong</strong>, Zhenghao Xu, Tianyi Liu, Shiyang Li, Rongzhi Zhang, Zheng Li, Lihong Li, Bing Yin, Chao Zhang, Jianshu Chen, Haoming Jiang and Tuo Zhao
     conference: <strong>COLM 2025</strong>
-    pdf:
-    code:
+    pdf: " "
+    code: " "
     
   - title: Discriminative Finetuning of Generative Large Language Models without Reward Models and Preference Data
     authors: Siqi Guo, <strong>Ilgee Hong</strong>, Vicente Balmaseda, Changlong Yu, Liang Qiu, Xin Liu, Haoming Jiang, Tuo Zhao, Tianbao Yang
@@ -28,7 +28,7 @@ main:
     #conference_short: Asilomar
     conference: <strong>NeurIPS 2024</strong>
     pdf: https://arxiv.org/pdf/2406.15568
-    code: 
+    code: " "
     #code: https://github.com/hongcheki/sweet-watermark
 
   - title: Adaptive Preference Scaling for Reinforcement Learning with Human Feedback
