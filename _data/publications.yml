@@ -1,7 +1,13 @@
 main:
+  - title: "Ask a Strong LLM Judge when Your Reward Model is Uncertain"
+    authors: Zhenghao Xu, Qin Lu, Qingru Zhang, Liang Qiu, <strong>Ilgee Hong</strong>, Changlong Yu, Wenlin Yao, Yao Liu, Haoming Jiang, Lihong Li, Hyokun Yun, Tuo Zhao
+    conference: <strong>NeurIPS 2025</strong>
+    pdf: " "
+    code: " "
+
   - title: "Think-RM: Enabling Long-Horizon Reasoning in Generative Reward Models"
     authors: <strong>Ilgee Hong</strong>, Changlong Yu, Liang Qiu, Weixiang Yan, Zhenghao Xu, Haoming Jiang, Qingru Zhang, Qin Lu, Xin Liu, Chao Zhang, Tuo Zhao
-    conference: Preprint
+    conference: <strong>NeurIPS 2025</strong>
     pdf: https://www.arxiv.org/abs/2505.16265
     code: https://github.com/IlgeeHong/Think-RM
   
