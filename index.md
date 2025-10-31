@@ -8,8 +8,12 @@ Hello! I am a third-year Ph.D. student in Machine Learning at Georgia Institute 
 
 ## Research Interests
 
+My research primarily focuses on post-training methods for LLMs. In particular, I develop training and inference frameworks to improve their capabilities in reasoning, instruction following, and multi-agent collaboration, especially through reinforcement learning.
+
+<!-- 
 My research primarily focuses on the post-training of LLMs. Specifically, I am developing training and inference frameworks to improve various abilities of LLMs, including
 reasoning, instruction following, and multi-agent collaboration, particularly through reinforcement learning.
+-->
 
 <!-- 
 My research focuses on post-training methods for large language models (LLMs). Specifically, I am developing methodologies to improve instruction following, reasoning, and coding abilities by:
