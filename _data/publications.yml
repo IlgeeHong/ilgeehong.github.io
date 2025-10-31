@@ -2,13 +2,13 @@ main:
   - title: "Ask a Strong LLM Judge when Your Reward Model is Uncertain"
     authors: Zhenghao Xu, Qin Lu, Qingru Zhang, Liang Qiu, <strong>Ilgee Hong</strong>, Changlong Yu, Wenlin Yao, Yao Liu, Haoming Jiang, Lihong Li, Hyokun Yun, Tuo Zhao
     conference: <strong>NeurIPS 2025</strong>
-    pdf: " "
-    code: " "
+    pdf: "https://arxiv.org/pdf/2510.20369"
+    code: "https://github.com/zhenghaoxu-gatech/uncertainty-router"
 
   - title: "Think-RM: Enabling Long-Horizon Reasoning in Generative Reward Models"
     authors: <strong>Ilgee Hong</strong>, Changlong Yu, Liang Qiu, Weixiang Yan, Zhenghao Xu, Haoming Jiang, Qingru Zhang, Qin Lu, Xin Liu, Chao Zhang, Tuo Zhao
     conference: <strong>NeurIPS 2025</strong>
-    pdf: https://www.arxiv.org/abs/2505.16265
+    pdf: https://openreview.net/pdf?id=UfQAFbP6xq
     code: https://github.com/IlgeeHong/Think-RM
   
   - title: "SlimMoE: Structured Compression of Large MoE Models via Expert Slimming and Distillation"
@@ -20,13 +20,13 @@ main:
   - title: "Self-Rewarding PPO: Aligning Large Language Models with Demonstrations Only"
     authors: Qingru Zhang, Liang Qiu, <strong>Ilgee Hong</strong>, Zhenghao Xu, Tianyi Liu, Shiyang Li, Rongzhi Zhang, Zheng Li, Lihong Li, Bing Yin, Chao Zhang, Jianshu Chen, Haoming Jiang, Tuo Zhao
     conference: <strong>COLM 2025</strong>
-    pdf: " "
+    pdf: "https://arxiv.org/pdf/2510.21090"
     code: " "
     
   - title: Discriminative Finetuning of Generative Large Language Models without Reward Models and Preference Data
     authors: Siqi Guo, <strong>Ilgee Hong</strong>, Vicente Balmaseda, Changlong Yu, Liang Qiu, Xin Liu, Haoming Jiang, Tuo Zhao, Tianbao Yang
     conference: <strong>ICML 2025</strong>
-    pdf: https://arxiv.org/abs/2502.18679
+    pdf: https://arxiv.org/pdf/2502.18679
     code: https://github.com/PenGuln/DFT
     
   - title: Robust Reinforcement Learning from Corrupted Human Feedback
