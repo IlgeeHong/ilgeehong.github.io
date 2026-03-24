@@ -32,6 +32,8 @@ My research focuses on post-training methods for large language models (LLMs). S
 
 ## Experience
 
+- Summer 2026: Applied Research Intern, **NVIDIA**
+- Spring 2026: Applied Scientist Intern, **Amazon**
 - Summer 2025: Research Intern, **Google DeepMind**
 - Fall 2024 - Spring 2025: Applied Scientist Intern, **Amazon**
 - Summer 2024: Research Intern,  **Microsoft**
