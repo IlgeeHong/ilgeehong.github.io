@@ -1,6 +1,6 @@
 main:
   - title: "Alternating Reinforcement Learning for Rubric-Based Reward Modeling in Non-Verifiable LLM Post-Training"
-    authors: Ran Xu†, Tianci Liu†, Zihan Dong, Tony You, <strong>Ilgee Hong</strong>, Carl Yang, Linjun Zhang, Tao Zhao, Haoyu Wang
+    authors: Ran Xu†, Tianci Liu†, Zihan Dong, Tony Yu, <strong>Ilgee Hong</strong>, Carl Yang, Linjun Zhang, Tuo Zhao, Haoyu Wang
     conference: <strong>ICML 2026</strong>
     pdf: "https://arxiv.org/pdf/2602.01511"
     code: "https://huggingface.co/collections/OpenRubrics/rubricarm"
