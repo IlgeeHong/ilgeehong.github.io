@@ -1,15 +1,15 @@
 main:
   - title: "Alternating Reinforcement Learning for Rubric-Based Reward Modeling in Non-Verifiable LLM Post-Training"
     authors: Ran Xu†, Tianci Liu†, Zihan Dong, Tony You, <strong>Ilgee Hong</strong>, Carl Yang, Linjun Zhang, Tao Zhao, Haoyu Wang
-    conference: Preprint
+    conference: <strong>ICML 2026</strong>
     pdf: "https://arxiv.org/pdf/2602.01511"
-    resources: "https://huggingface.co/OpenRubrics"
+    code: "https://huggingface.co/collections/OpenRubrics/rubricarm"
   
   - title: "OpenRubrics: Towards Scalable Synthetic Rubric Generation for Reward Modeling and LLM Alignment"
     authors: Tianci Liu†, Ran Xu†, Tony Yu, <strong>Ilgee Hong</strong>, Carl Yang, Tuo Zhao, Haoyu Wang
-    conference: Preprint
+    conference: <strong>ACL 2026</strong>
     pdf: "https://arxiv.org/pdf/2510.07743"
-    resources: "https://huggingface.co/OpenRubrics"
+    code: "https://huggingface.co/collections/OpenRubrics/rubricrm-v2"
 
   - title: "Ask a Strong LLM Judge when Your Reward Model is Uncertain"
     authors: Zhenghao Xu, Qin Lu, Qingru Zhang, Liang Qiu, <strong>Ilgee Hong</strong>, Changlong Yu, Wenlin Yao, Yao Liu, Haoming Jiang, Lihong Li, Hyokun Yun, Tuo Zhao
