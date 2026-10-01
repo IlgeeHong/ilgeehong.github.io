@@ -8,7 +8,7 @@ Hello! I am a final-year Ph.D. student in Machine Learning at Georgia Institute 
 
 ## Research Interests
 
-My research primarily focuses on post-training methods for LLMs. I develop training and inference frameworks to improve the behavioral capabilities of LLMs, particularly through reinforcement learning.
+My research primarily focuses on post-training methods for LLMs. I develop training and inference frameworks to improve the behavioral capabilities of LLMs, particularly through RL.
 
 <!-- 
 My research primarily focuses on the post-training of LLMs. Specifically, I am developing training and inference frameworks to improve various abilities of LLMs, including
