@@ -8,7 +8,7 @@ Hello! I am a final-year Ph.D. student in Machine Learning at Georgia Institute 
 
 ## Research Interests
 
-My research primarily focuses on post-training methods for LLMs. I develop training and inference frameworks to improve their diverse capabilities, such as reasoning, instruction following, and multi-agent collaboration, especially through reinforcement learning.
+My research primarily focuses on post-training methods for LLMs. I develop training and inference frameworks to improve the behavioral capabilities of LLMs, particularly through reinforcement learning.
 
 <!-- 
 My research primarily focuses on the post-training of LLMs. Specifically, I am developing training and inference frameworks to improve various abilities of LLMs, including
@@ -32,7 +32,7 @@ My research focuses on post-training methods for large language models (LLMs). S
 
 ## Experience
 
-- Summer 2026: Applied Research Intern, **NVIDIA**
+- Summer 2026 - Fall 2026: Applied Research Intern, **NVIDIA**
 - Spring 2026: Applied Scientist Intern, **Amazon**
 - Summer 2025: Research Intern, **Google DeepMind**
 - Fall 2024 - Spring 2025: Applied Scientist Intern, **Amazon**
